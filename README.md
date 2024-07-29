@@ -1,0 +1,1 @@
+[![Watch the video](https://raw.githubusercontent.com/AnnaVi11arrea1/Project-Kaleidoscope/main/path/to/thumbnail.jpg)](https://raw.githubusercontent.com/AnnaVi11arreal/Project-Kaleidoscope/main/720p.mov)
